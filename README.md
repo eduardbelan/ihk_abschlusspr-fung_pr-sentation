@@ -20,7 +20,7 @@ Dieses Repository enthält ein LaTeX-Projekt, das für Präsentationen verwendet
 ### Mit Git:
 ```bash
 # Klone das Repository auf deinen lokalen Rechner
-git clone (https://github.com/eduardbelan/ihk_abschlusspr-fung_pr-sentation.git)
+git clone https://github.com/eduardbelan/ihk_final_exam_presentation.git
 ```
 
 ### Alternativ:
