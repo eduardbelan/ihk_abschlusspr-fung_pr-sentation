@@ -1,0 +1,1 @@
+# ihk_abschlusspr-fung_pr-sentation
